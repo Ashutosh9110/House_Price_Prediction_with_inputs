@@ -5,7 +5,8 @@ House is a basic necessity of our life. Besides providing shelter, it is a major
  In this context, it is essential to have accurate measure of aggregate housing prices.
 
 
-![image](https://user-images.githubusercontent.com/113494449/211262134-7271cc47-63f6-416f-adfc-628ea3775775.png)
+
+![image](https://user-images.githubusercontent.com/113494449/211262723-6204a683-25db-48a0-a3bb-01bd69694b1b.png)
 
 
 ![image](https://user-images.githubusercontent.com/113494449/211255502-b6ffafae-2185-4d4e-a991-70e728b79f94.png)
